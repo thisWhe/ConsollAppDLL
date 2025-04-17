@@ -1,0 +1,15 @@
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\Dapper.dll
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\Dapper.xml
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLib.E736BF3C.Up2Date
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Emir\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
